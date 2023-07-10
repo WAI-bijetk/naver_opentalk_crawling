@@ -12,7 +12,7 @@
 
 python naver_opentalk_crawling.py --url="수집하려는 드라마 컨텐츠 홈의 오픈톡 url" --comment_num=수집하려는 댓글 개수
 
-Ex. python naver_opentalk_crawling.py --url="https://program.naver.com/p/28694187/talk" --comment_num=1500
+Ex. `python naver_opentalk_crawling.py --url="https://program.naver.com/p/28694187/talk" --comment_num=1500`
 
 
 
